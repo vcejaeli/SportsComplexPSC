@@ -238,6 +238,13 @@ p {
   font-size: 12px;
   color: #fff;
 }
+.footer a {
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
+.footer a:hover {
+  color: #fde62f;
+}
 
 .home {
   background-position: center;
